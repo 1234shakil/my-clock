@@ -18,8 +18,8 @@ body{
 }
 
 .Clock{
-    height: 300px;
-    width: 300px;
+    height: 340px;
+    width: 340px;
     background:radial-gradient(rgba(0,0,0,.1), rgba(0,0,0,.85)) , url(./../gon.png);
     background-size: cover;
     background-position: center;
